@@ -17,4 +17,4 @@ jobs:
         server: ftp.kuliner-indonesia.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /public-html/actions/
+        server-dir: /
